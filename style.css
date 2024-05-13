@@ -1,0 +1,16 @@
+body {
+  font-family: "Foglihten";
+}
+
+li {
+  list-style: none;
+}
+
+.nav:last-child {
+  cursor: pointer;
+}
+
+@font-face {
+  font-family: "Foglihten";
+  src: url(FoglihtenNo06_076.otf);
+}
