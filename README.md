@@ -1,2 +1,12 @@
-# Учебный проект - Портфолио фотографа с использованием фреймворка Bootstrap
-![Иллюстрация к проекту](https://github.com/MariaGlukhovaP/PhotographerPortfolio/blob/master/screenshot1.jpg)
+# Интернет-магазин наушников
+
+## Использованные технологии
+
+- HTML
+- CSS
+- Bootstrap
+
+## Превью
+
+![Preview](screenshot1.jpg)
+
